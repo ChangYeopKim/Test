@@ -1,2 +1,2 @@
-# Test
-깃허브 공용 유니티 프로젝트
+# Unity_GithubTest
+Unity Project
